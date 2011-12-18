@@ -1,0 +1,69 @@
+Sat Dec 17 20:40:04 SGT 2011  [debug] AvalonLogSystem initialized using logfile 'velocity.log'
+Sat Dec 17 20:40:04 SGT 2011   [info] ************************************************************** 
+Sat Dec 17 20:40:04 SGT 2011   [info] Starting Jakarta Velocity v1.4
+Sat Dec 17 20:40:04 SGT 2011   [info] RuntimeInstance initializing.
+Sat Dec 17 20:40:04 SGT 2011   [info] Default Properties File: org\apache\velocity\runtime\defaults\velocity.properties
+Sat Dec 17 20:40:04 SGT 2011   [info] Trying to use logger class org.apache.velocity.runtime.log.AvalonLogSystem
+Sat Dec 17 20:40:04 SGT 2011   [info] Using logger class org.apache.velocity.runtime.log.AvalonLogSystem
+Sat Dec 17 20:40:04 SGT 2011   [info] Default ResourceManager initializing. (class org.apache.velocity.runtime.resource.ResourceManagerImpl)
+Sat Dec 17 20:40:04 SGT 2011   [info] Resource Loader Instantiated: org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Sat Dec 17 20:40:04 SGT 2011   [info] ClasspathResourceLoader : initialization starting.
+Sat Dec 17 20:40:04 SGT 2011   [info] ClasspathResourceLoader : initialization complete.
+Sat Dec 17 20:40:04 SGT 2011   [info] ResourceCache : initialized. (class org.apache.velocity.runtime.resource.ResourceCacheImpl)
+Sat Dec 17 20:40:04 SGT 2011   [info] Default ResourceManager initialization complete.
+Sat Dec 17 20:40:04 SGT 2011   [info] Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+Sat Dec 17 20:40:04 SGT 2011   [info] Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+Sat Dec 17 20:40:04 SGT 2011   [info] Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+Sat Dec 17 20:40:04 SGT 2011   [info] Loaded System Directive: org.apache.velocity.runtime.directive.Include
+Sat Dec 17 20:40:04 SGT 2011   [info] Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+Sat Dec 17 20:40:04 SGT 2011   [info] Created: 3 parsers.
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : initialization starting.
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : adding VMs from VM library template : templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #conditions( condition ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #params( map ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #contextprovider( classname ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #resource( resource ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #resources( resourceList ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #icon( icon ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #link( link ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #label( label ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #tooltip( tooltip ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #dependencies( dependencies ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #dependency( dependency ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #contexts( contexts ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #resourcecontext( resourceContext ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #transformations( transformations ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #transformation( transformation ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #dispatchers( dispatchers ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #dispatcher( dispatcher ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #packages( packages ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #package( package ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #actions( actions ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #action( action ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #views( views ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : added new VM : #view( view ) : source = templates/macros.vm
+Sat Dec 17 20:40:04 SGT 2011  [error] VM #params: error : too few arguments to macro. Wanted 1 got 0
+Sat Dec 17 20:40:04 SGT 2011  [error] VM #conditions: error : too few arguments to macro. Wanted 1 got 0
+Sat Dec 17 20:40:04 SGT 2011  [error] VM #link: error : too few arguments to macro. Wanted 1 got 0
+Sat Dec 17 20:40:04 SGT 2011  [error] VM #dependency: error : too few arguments to macro. Wanted 1 got 0
+Sat Dec 17 20:40:04 SGT 2011  [error] VM #resourcecontext: error : too few arguments to macro. Wanted 1 got 0
+Sat Dec 17 20:40:04 SGT 2011  [error] VM #transformation: error : too few arguments to macro. Wanted 1 got 0
+Sat Dec 17 20:40:04 SGT 2011  [error] VM #dispatcher: error : too few arguments to macro. Wanted 1 got 0
+Sat Dec 17 20:40:04 SGT 2011  [error] VM #package: error : too few arguments to macro. Wanted 1 got 0
+Sat Dec 17 20:40:04 SGT 2011  [error] VM #action: error : too few arguments to macro. Wanted 1 got 0
+Sat Dec 17 20:40:04 SGT 2011  [error] VM #views: error : too few arguments to macro. Wanted 1 got 0
+Sat Dec 17 20:40:04 SGT 2011  [error] VM #view: error : too few arguments to macro. Wanted 1 got 0
+Sat Dec 17 20:40:04 SGT 2011   [info] ResourceManager : found templates/macros.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro :  VM library template macro registration complete.
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : allowInline = true : VMs can be defined inline in templates
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : allowInlineLocal = false : VMs defined inline will be  global in scope if allowed.
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : messages on  : VM system will output logging messages
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : autoload off  : VM system will not automatically reload global library macros
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocimacro : initialization complete.
+Sat Dec 17 20:40:04 SGT 2011   [info] Velocity successfully started.
+Sat Dec 17 20:41:12 SGT 2011   [info] ResourceManager : found templates/jira/rpc/RPCServiceInterface.java.vtl with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Sat Dec 17 20:41:12 SGT 2011   [info] ResourceManager : found templates/jira/rpc/RPCService.java.vtl with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Sat Dec 17 20:41:12 SGT 2011   [info] ResourceManager : found templates/generic/GenericTest.java.vtl with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Sat Dec 17 20:41:13 SGT 2011   [info] ResourceManager : found templates/common/component/component-plugin.xml.vtl with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Sat Dec 17 20:41:13 SGT 2011   [info] ResourceManager : found templates/jira/rpc/soap-rpc-plugin.xml.vtl with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
